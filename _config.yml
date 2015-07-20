@@ -15,32 +15,24 @@ color:
   secondary-dark: d94fcf
 
 # Footer settings
-footer:
-  copyright: Stephanie Unger
-  location: Location
-  social: Around the Web
-  credits: Credits
+# footer:
+  # copyright: Stephanie Unger
+  # location: Location
+  # social: Around the Web
+  # credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  # - title: mail
+  #   url: stephanie@ungermail.com
+  - title: linkedin
+    url: http://linkedin.com/in/stepheunger
   - title: twitter
-    url: http://twitter.com/stepheunger
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
-
-# Credits content
-credits: 'I like bananas.'
+    url: twitter.com/stepheunger
+  - title: instagram
+    url: http://instagram.com/stepheunger
+  - title: pinterest
+    url: http://pinterest.com/stepheunger
 
 # Build settings
 markdown: kramdown
