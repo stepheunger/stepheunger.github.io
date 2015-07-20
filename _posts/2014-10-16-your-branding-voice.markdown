@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 4
+modal-id: 2
 date: 2014-07-15
 img: computer.png
 alt: image-alt
