@@ -26,13 +26,13 @@ social:
   # - title: mail
   #   url: stephanie@ungermail.com
   - title: linkedin
-    url: http://linkedin.com/in/stepheunger
+    url: https://www.linkedin.com/in/stepheunger
   - title: twitter
-    url: twitter.com/stepheunger
+    url: https://twitter.com/stepheunger
   - title: instagram
-    url: http://instagram.com/stepheunger
+    url: https://instagram.com/stepheunger
   - title: pinterest
-    url: http://pinterest.com/stepheunger
+    url: https://pinterest.com/stephunger3
 
 # Build settings
 markdown: kramdown
