@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 6
+modal-id: 3
 date: 2015-02-23
 img: submarine.png
 alt: image-alt
