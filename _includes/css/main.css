@@ -442,3 +442,10 @@ footer .footer-below {
 .navbar-nav>.active>a {
     background-color: #{{ site.color.secondary-dark }} !important;
 }
+
+
+
+.profile-img {
+    border: 5px solid #333333;
+    border-radius: 25%;
+}
